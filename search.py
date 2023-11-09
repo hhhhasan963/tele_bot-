@@ -19,7 +19,7 @@ def convert_to_int(element):
         return element
 
 # قائمة بالمجلدات التي تحتوي على ملفات HTML
-directories = r"C:\Users\DELL\Desktop\mark"
+directories = r"\nbbbb"
 
 # قائمة بجميع الملفات التي تنتهي بـ ".html" في المجلدات
 files = []
